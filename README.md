@@ -16,11 +16,11 @@ This script implements the **Banker's Algorithm** for deadlock avoidance and a *
 ## Usage
 1. **Make the script executable:**
    ```sh
-   chmod +x banker_deadlock.sh
+   chmod +x banker-deadlock.sh
    ```
 2. **Run the script:**
    ```sh
-   ./banker_deadlock.sh
+   ./banker-deadlock.sh
    ```
 3. **Provide the following inputs:**
    - Number of processes (P)
